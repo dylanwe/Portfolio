@@ -14,6 +14,5 @@ The payments are done with [Mollie](https://www.mollie.com/). Mollie is easy to 
 - [x] Using a payment system in this case *Mollie*
   
 ## 📌 What I would do differently
-If I had to remake this I would remake the design as I find it looks a bit empty and I didn't capture the mood of a gym and working out.
-  
-I would add a shopping cart to improve the user experience and make an admin panel so the owner can easily add new items.
+- If I had to remake this I would remake the design as I find it looks a bit empty and I didn't capture the mood of a gym and working out.
+- I would add a shopping cart to improve the user experience and make an admin panel so the owner can easily add new items.
